@@ -3,7 +3,7 @@
  ## Segue a resposta de cada questão: 
 • [Questão 01](#questão01) <br>
 • [Questão 02](#questão02) <br>
-• [Questão 03](#questão03)  //// [Link para o arquivo JSON de faturamento]() <br>
+• [Questão 03](#questão03)  //// [Link para o arquivo JSON de faturamento](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Scripts/FaturamentoEmpresa/faturamento.json) <br>
 • [Questão 04](#questão04) <br>
 • [Questão 05](#questão05)
 
@@ -71,7 +71,8 @@ int main() {
 }
 ```
 ### Output:
-
+![Numero presente na sequência de Fibonacci](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Outputs/FibonacciPresente.png) <br>
+![Numero não presente na sequência de Fibonacci](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Outputs/FibonacciNaoPresente.png) 
 
 ---
 
@@ -118,7 +119,7 @@ if __name__ == "__main__":
 ```
 
 ### Output:
-
+![Faturamento](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Outputs/Faturamento.png) 
 ---
 
 ## Questão04
@@ -158,7 +159,7 @@ int main() {
 ```
 
 ### Output:
-
+![RepresentaçãoPercentualPorEstado](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Outputs/RepesentacaoPorEstado.png) 
 ---
 
 ## Questão05
@@ -205,3 +206,4 @@ int main() {
 ```
 
 ### Output: 
+![ReverterPalavra](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Outputs/ReverterPalavra.png) 
