@@ -3,7 +3,7 @@
  ## Segue a resposta de cada questão: 
 • [Questão 01](#questão01) <br>
 • [Questão 02](#questão02) <br>
-• [Questão 03](#questão03)  //// [Link para o arquivo JSON de faturamento](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Scripts/FaturamentoEmpresa/faturamento.json) <br>
+• [Questão 03](#questão03)  //// [Link para o arquivo JSON de faturamento](https://github.com/Matheusmslopes/Processo-Seletivo-Target/blob/main/Logica-de-Programacao/Scripts/FaturamentoEmpresa/dados.json) <br>
 • [Questão 04](#questão04) <br>
 • [Questão 05](#questão05)
 
@@ -123,7 +123,7 @@ if __name__ == "__main__":
 ---
 
 ## Questão04
-Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
+Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado: <br>
 • SP – R$67.836,43 <br>
 • RJ – R$36.678,66 <br>
 • MG – R$29.229,88 <br>
