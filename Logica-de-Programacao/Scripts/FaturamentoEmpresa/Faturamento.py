@@ -3,7 +3,7 @@ import json
 def carregar_dados(json_file):
     with open(json_file, 'r') as file:
         dados = json.load(file)
-    return dados['faturamento_diario']
+    return dados
 
 def calcular_faturamento(dados):
     valores = [dia['valor'] for dia in dados if dia['valor'] > 0]
@@ -17,7 +17,7 @@ def calcular_faturamento(dados):
     return menor_faturamento, maior_faturamento, dias_acima_da_media
 
 def main():
-    dados = carregar_dados('faturamento.json')
+    dados = carregar_dados('dados.json')
     menor_faturamento, maior_faturamento, dias_acima_da_media = calcular_faturamento(dados)
     
     print(f"Menor valor de faturamento: R$ {menor_faturamento:.2f}")
